@@ -1,0 +1,74 @@
+
+
+.primary{
+  color: #2392a6
+}
+
+body{
+  margin-top: 105px;
+}
+
+.navbar{
+  box-shadow: 2px 2px 5px #2392a6;
+  opacity: 0.9;
+  background: white;
+}
+
+.navbar .nav-item{
+  font-size: 1.4rem;
+  padding-right: 1.4rem;
+}
+
+#profilowe{
+  max-width: 70%;
+}
+
+.kolko{
+  background: rgb(235, 235, 235);
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: 50%;
+  margin-bottom: 0;
+}
+
+.linia{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0.4rem;
+  border-left: 1.5px solid rgb(235, 235, 235);
+  width: 2rem;
+  height: 100%;
+}
+
+.container-experience{
+  display: flex;
+  padding-left: 0.5rem
+}
+
+.style-span-naglowek{
+  position: relative;
+  top: -2.5px;
+}
+
+.style-h6-university{
+  
+  margin-bottom: 0;
+}
+
+.style-h6-kierunek{
+  margin-top: 0.2rem;
+  margin-bottom: 0;
+  font-style: italic;
+  color: rgb(94, 94, 94);
+}
+
+.style-h6-lata{
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
+
+.education-img{
+  opacity: 0.7;
+  max-width: 80%;
+}
